@@ -1,0 +1,14 @@
+#heading{
+    color: brown;
+    font-size: 50px;
+    text-align: center;
+}
+.links{
+    color: coral;
+    font-style: italic;
+    font-size: 30px;
+}
+a{
+    color: chocolate;
+    font-style: normal;
+}
